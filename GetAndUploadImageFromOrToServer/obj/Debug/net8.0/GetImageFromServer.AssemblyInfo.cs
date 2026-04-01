@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GetImageFromServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73d3b555965fc51be3d968d24249e4662d4a0327")]
 [assembly: System.Reflection.AssemblyProductAttribute("GetImageFromServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GetImageFromServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\learn_c++\\learn_c++\\Introduction to RESTful API\\GetImageFromServer\\GetImageFromServer\\GetImageFromServer.csproj": {}
+    "D:\\githubClone\\Projects-In-API-s\\GetAndUploadImageFromOrToServer\\GetImageFromServer.csproj": {}
   },
   "projects": {
-    "D:\\learn_c++\\learn_c++\\Introduction to RESTful API\\GetImageFromServer\\GetImageFromServer\\GetImageFromServer.csproj": {
+    "D:\\githubClone\\Projects-In-API-s\\GetAndUploadImageFromOrToServer\\GetImageFromServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\learn_c++\\learn_c++\\Introduction to RESTful API\\GetImageFromServer\\GetImageFromServer\\GetImageFromServer.csproj",
+        "projectUniqueName": "D:\\githubClone\\Projects-In-API-s\\GetAndUploadImageFromOrToServer\\GetImageFromServer.csproj",
         "projectName": "GetImageFromServer",
-        "projectPath": "D:\\learn_c++\\learn_c++\\Introduction to RESTful API\\GetImageFromServer\\GetImageFromServer\\GetImageFromServer.csproj",
+        "projectPath": "D:\\githubClone\\Projects-In-API-s\\GetAndUploadImageFromOrToServer\\GetImageFromServer.csproj",
         "packagesPath": "C:\\Users\\IT'S ME\\.nuget\\packages\\",
-        "outputPath": "D:\\learn_c++\\learn_c++\\Introduction to RESTful API\\GetImageFromServer\\GetImageFromServer\\obj\\",
+        "outputPath": "D:\\githubClone\\Projects-In-API-s\\GetAndUploadImageFromOrToServer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

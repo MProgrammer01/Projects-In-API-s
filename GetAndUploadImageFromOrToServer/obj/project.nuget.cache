@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pDTMPuA4DgI=",
+  "dgSpecHash": "S+2cy1OgexM=",
   "success": true,
-  "projectFilePath": "D:\\learn_c++\\learn_c++\\Introduction to RESTful API\\GetImageFromServer\\GetImageFromServer\\GetImageFromServer.csproj",
+  "projectFilePath": "D:\\githubClone\\Projects-In-API-s\\GetAndUploadImageFromOrToServer\\GetImageFromServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\IT'S ME\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\IT'S ME\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
